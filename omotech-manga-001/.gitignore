@@ -1,0 +1,9 @@
+.DS_Store
+*~
+*.bak
+*.yml.orig
+#*.erb.orig
+rubygems/*
+tmp/*
+omotech-manga-001-pdf/*
+omotech-manga-001-md/*
