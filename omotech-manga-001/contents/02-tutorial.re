@@ -933,10 +933,10 @@ Starterでは、会話形式も書けます。
 
 //list[][サンプル][]{
 @<b>|//talklist{|
-@<b>|//talk[avatar-b]|{
+@<b>|//talk[rinne1]|{
 あの方は何も盗らなかったわ。私のために闘ってくださったんです。
 /@<nop>$$/}
-@<b>|//talk[avatar-g]|{
+@<b>|//talk[kami2]|{
 いや、ヤツはとんでもないものを盗んでいきました……
 あなたの心です。
 /@<nop>$$/}
@@ -946,10 +946,10 @@ Starterでは、会話形式も書けます。
 //sampleoutputbegin[表示結果]
 
 //talklist{
-//talk[avatar-b]{
+//talk[rinne1]{
 あの方は何も盗らなかったわ。私のために闘ってくださったんです。
 //}
-//talk[avatar-g]{
+//talk[kami2]{
 いや、ヤツはとんでもないものを盗んでいきました……
 あなたの心です。
 //}
