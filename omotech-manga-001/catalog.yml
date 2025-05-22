@@ -10,12 +10,14 @@ PREDEF:
 
 ## 本文
 CHAPS:
-  - 01-install.re
-  - 02-tutorial.re
-  - 03-syntax.re
-  - 04-customize.re
-  - 05-faq.re
-  - 06-bestpractice.re
+  - 01-cloud.re
+  - 02-iac.re
+  - 03-mle.re
+  - 04-formalmethod.re
+  # - 03-syntax.re
+  # - 04-customize.re
+  # - 05-faq.re
+  # - 06-bestpractice.re
 
 ## 付録
 APPENDIX:
